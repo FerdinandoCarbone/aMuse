@@ -1,0 +1,167 @@
+[
+    {
+        "id" : 101,
+        "Museum": "Archeological Museum:",
+        "photo": "ArchelogicalHall",
+        "question": "Which of the following musical instruments can be found in the entrance of the museum?",
+        "answer1": "A Harp",
+        "answer2": "An Organ",
+        "answer3": "A Piano",
+        "answer4": "A Drum",
+        "rightAnswer": "A Piano"
+    },
+    {
+        "id" : 102,
+        "Museum": "Archeological Museum:",
+        "photo": "CamelliaGarden",
+        "question": "What’s the name of the statue in the Camellia Garden?",
+        "answer1": "Icarus",
+        "answer2": "The Hero’s dream",
+        "answer3": "The Drunken Satyr",
+        "answer4": "The Hero’s birth",
+        "rightAnswer": "The Hero’s dream"
+    },
+    {
+        "id": 103,
+        "Museum": "Archeological Museum:",
+        "photo": "StairwayStatue",
+        "question": "Which king is depicted in the statue located in the main stairway?",
+        "answer1": "Ferdinand 1st",
+        "answer2": "Frederick 2nd",
+        "answer3": "Ferdinand 4th",
+        "answer4": "Umberto 1st",
+        "rightAnswer": "Ferdinand 1st"
+    },
+    {
+        "id": 104,
+        "Museum": "Archeological Museum:",
+        "photo": "Meridiane",
+        "question": "As soon as you enter the “Salone Meridiana”, what collection is directly on the right side?",
+        "answer1": "Farnese Collection",
+        "answer2": "Egyptian Collection",
+        "answer3": " Ancient Naples Collection",
+        "answer4": "Magna Grecia Collection",
+        "rightAnswer": "Magna Grecia Collection"
+    },
+    {
+        "id": 105,
+        "Museum": "Archeological Museum:",
+        "photo": "MagnaGrecia",
+        "question": "Which deity is depicted in this statue, located in the “Villa dei Papiri” section?",
+        "answer1": "Aphrodite",
+        "answer2": "Athena",
+        "answer3": "Diane",
+        "answer4": "Juno",
+        "rightAnswer": "Athena"
+    },
+    {
+        "id": 106,
+        "Museum": "Zoological Museum:",
+        "photo": "Leo",
+        "question": "Which Lion subspecies can be found in the museum’s entrance?",
+        "answer1": "Barbary Lion",
+        "answer2": "Congo Lion (Panthera Leo Hollisteri)",
+        "answer3": "Cape Lion (Panthera Leo Melanochaita)",
+        "answer4": "Eurasian Cave Lion",
+        "rightAnswer": "Cape Lion (Panthera Leo Melanochaita)"
+    },
+    {
+        "id": 107,
+        "Museum": "Zoological Museum:",
+        "photo": "polarBear",
+        "question": "Which animal is right beneath the polar bear?",
+        "answer1": "A Penguin",
+        "answer2": "A Fox",
+        "answer3": "An Albatross",
+        "answer4": "A Polar bear cub",
+        "rightAnswer": "A Fox"
+    },
+    {
+        "id": 108,
+        "Museum": "Zoological Museum:",
+        "photo": "Elephant",
+        "question": "Where was the elephant preserved in the museum originally from?",
+        "answer1": "Portici",
+        "answer2": "Acerra",
+        "answer3": "Pozzuoli",
+        "answer4": "Torre del Greco",
+        "rightAnswer": "Portici"
+    },
+    {
+        "id": 109,
+        "Museum": "Zooological Museum:",
+        "photo": "whale",
+        "question": "Which species does the biggest whale preserved in the museum belong to?",
+        "answer1": "Common/Northern minke whale",
+        "answer2": "Gray Whale",
+        "answer3": "Blue Whale",
+        "answer4": "Northern right whale",
+        "rightAnswer": "Northern right whale"
+    },
+    {
+        "id": 110,
+        "Museum": "Zoological Museum:",
+        "photo": "birds",
+        "question": "Which order of birds can be found on the left side of the parrot’s showcase (psittaciforms)?",
+        "answer1": "Gruiformes",
+        "answer2": "Passerines",
+        "answer3": "Strigiformes",
+        "answer4": "Sphenisciform",
+        "rightAnswer": "Strigiformes"
+    },
+    {
+        "id": 111,
+        "Museum": "Paleontology Museum:",
+        "photo": "megaHorn",
+        "question": "Which animal used to have this huge pair of antlers?",
+        "answer1": "Alces Alces",
+        "answer2": "Megaloceros Gigantescus",
+        "answer3": "Rangifer Tarandus",
+        "answer4": "Cervus Elaphus",
+        "rightAnswer": "Megaloceros gigantescus"
+    },
+    {
+        "id": 112,
+        "Museum": "Paleontology Museum:",
+        "photo": "dinoBird",
+        "question": "How many eggs are there beneath the Aeopyornis sp.?",
+        "answer1": "2",
+        "answer2": "4",
+        "answer3": "3",
+        "answer4": "There are no Eggs",
+        "rightAnswer": "2"
+    },
+    {
+        "id": 113,
+        "Museum": "Paleontology Museum:",
+        "photo": "DinoAllo",
+        "question": "Which species of Dinosaur does this big cast located in the main room belong to?",
+        "answer1": "Allosaur",
+        "answer2": "Tyrannosaurus Rex",
+        "answer3": "Albertosaurus",
+        "answer4": "Spinosaurus",
+        "rightAnswer": "Allosaur"
+    },
+    {
+        "id": 114,
+        "Museum": "Paleontology Museum:",
+        "photo": "ciruzzo",
+        "question": "What’s the nickname of this small dinosaur found in Pietraroja (Scipionyx samniticus)?",
+        "answer1": "Gennaro",
+        "answer2": "Alberto",
+        "answer3": "Salvatore",
+        "answer4": "Ciro",
+        "rightAnswer": "Ciro"
+    },
+    {
+        "id": 115,
+        "Museum": "Paleontology Museum:",
+        "photo": "mammuth",
+        "question": "What’s the nickname of the tiny mammuth discovered in Siberia?",
+        "answer1": "Ellie",
+        "answer2": "Woolly",
+        "answer3": "Martin",
+        "answer4": "Lucy",
+        "rightAnswer": "Woolly"
+    },
+]

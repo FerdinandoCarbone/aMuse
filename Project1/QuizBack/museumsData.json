@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 3001,
+        "name": "Naples National Archeological Museum",
+        "location": "Piazza Museo, Naples",
+        "isCompleted": false,
+        "imageName": "mann"
+    },
+    {
+        "id" : 3002,
+        "name": "Paleontology Museum",
+        "location": "Largo San Marcellino, Naples",
+        "isCompleted": false,
+        "imageName": "DinoAllo"
+    }
+]

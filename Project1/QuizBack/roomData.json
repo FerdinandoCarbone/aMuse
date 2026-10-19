@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 2,
+        "name": "Art Classroom",
+        "description": "Unlockable room",
+        "description2": "\"First I dream my paintings, then I paint my dreams.\" Vincent Van Gogh",
+        "isUnlocked": false,
+        "imageName": "room2",
+        "price": 30
+    }
+    
+]
